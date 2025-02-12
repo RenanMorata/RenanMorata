@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou um estudante de *Engenharia de Computação* apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades e já desenvolvi alguns projetos práticos, como um site para uma hamburgueria fictícia e uma lista de tarefas.
+Sou um estudante da Gestão da Tecnologia da Informação com foco em desenvolvimento de software. Buscando diariamente evoluir minhas habilidades e conhecimento da area!
 
 📌 Sempre buscando aprender e evoluir no mundo da programação!
 
@@ -24,7 +24,9 @@ Sou um estudante de *Engenharia de Computação* apaixonado por tecnologia e des
 ### ⚙️ Back-End
 <div align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++" />
+
 </div>
 
 ---
